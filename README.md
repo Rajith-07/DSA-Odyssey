@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0035-search-insert-position) |
+| [0128-longest-consecutive-sequence](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0128-longest-consecutive-sequence) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0219-contains-duplicate-ii) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0268-missing-number) |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0844-backspace-string-compare) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
