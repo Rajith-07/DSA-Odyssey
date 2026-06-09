@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0035-search-insert-position) |
 | [0128-longest-consecutive-sequence](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0128-longest-consecutive-sequence) |
+| [0134-gas-station](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0219-contains-duplicate-ii) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
