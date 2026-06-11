@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0014-longest-common-prefix) |
 | [0412-fizz-buzz](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0844-backspace-string-compare) |
