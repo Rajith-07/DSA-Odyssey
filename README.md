@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0283-move-zeroes) |
 | [0844-backspace-string-compare](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0844-backspace-string-compare) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0125-valid-palindrome) |
 | [0412-fizz-buzz](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1108-defanging-an-ip-address) |
