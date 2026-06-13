@@ -24,9 +24,7 @@ public:
                 tot += weights[c-'a'];
             }
 
-            int r = tot % 26;
-
-            char x = 'z' - r;
+            char x = 'z' - (tot%26);
             res += x;
         }
         return res;
