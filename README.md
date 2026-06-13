@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1672-richest-customer-wealth) |
 | [1929-concatenation-of-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1929-concatenation-of-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3689-maximum-total-subarray-value-i) |
+| [3838-weighted-word-mapping](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3838-weighted-word-mapping) |
 ## Binary Search
 |  |
 | ------- |
@@ -64,12 +65,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0844-backspace-string-compare) |
 | [1108-defanging-an-ip-address](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1108-defanging-an-ip-address) |
+| [3838-weighted-word-mapping](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1929-concatenation-of-array) |
+| [3838-weighted-word-mapping](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3838-weighted-word-mapping) |
 ## Bit Manipulation
 |  |
 | ------- |
