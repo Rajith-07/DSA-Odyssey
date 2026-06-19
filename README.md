@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1732-find-the-highest-altitude) |
 | [1929-concatenation-of-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1929-concatenation-of-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3838-weighted-word-mapping) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1732-find-the-highest-altitude) |
 ## Math
 |  |
 | ------- |
