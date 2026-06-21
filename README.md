@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1672-richest-customer-wealth) |
 | [1732-find-the-highest-altitude](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1732-find-the-highest-altitude) |
+| [1833-maximum-ice-cream-bars](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1929-concatenation-of-array) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3838-weighted-word-mapping) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0347-top-k-frequent-elements) |
+| [1833-maximum-ice-cream-bars](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1833-maximum-ice-cream-bars) |
 ## Trie
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0134-gas-station) |
+| [1833-maximum-ice-cream-bars](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1833-maximum-ice-cream-bars) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3689-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0042-trapping-rain-water) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
