@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0347-top-k-frequent-elements) |
+| [0739-daily-temperatures](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0739-daily-temperatures) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1480-running-sum-of-1d-array) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rajith-07/DSA-Odyssey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Union-Find
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0739-daily-temperatures) |
 ## Counting Sort
 |  |
 | ------- |
