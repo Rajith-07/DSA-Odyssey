@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0134-gas-station) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0219-contains-duplicate-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0412-fizz-buzz) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0844-backspace-string-compare](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0844-backspace-string-compare) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rajith-07/DSA-Odyssey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Union-Find
