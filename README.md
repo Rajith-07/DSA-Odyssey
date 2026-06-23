@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0347-top-k-frequent-elements) |
+| [0704-binary-search](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0739-daily-temperatures) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1250-check-if-it-is-a-good-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
