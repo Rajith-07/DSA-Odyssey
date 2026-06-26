@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0853-car-fleet) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1250-check-if-it-is-a-good-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1470-shuffle-the-array) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0347-top-k-frequent-elements) |
+| [0853-car-fleet](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0853-car-fleet) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1833-maximum-ice-cream-bars) |
 ## Trie
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0844-backspace-string-compare) |
+| [0853-car-fleet](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0853-car-fleet) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rajith-07/DSA-Odyssey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Union-Find
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0739-daily-temperatures) |
+| [0853-car-fleet](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0853-car-fleet) |
 ## Counting Sort
 |  |
 | ------- |
