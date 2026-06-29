@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0134-gas-station) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0704-binary-search) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0036-valid-sudoku) |
+| [0074-search-a-2d-matrix](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
