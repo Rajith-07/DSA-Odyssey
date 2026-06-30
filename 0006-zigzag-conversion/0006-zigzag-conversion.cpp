@@ -36,31 +36,66 @@ public:
 
 
         // O(n^2) Space
+        // if (numRows < 2 || numRows>=s.length()) return s;
+
+        // vector<vector<char>> res(numRows);
+        // int idx = 0, dirn; // 1-down, -1-up
+
+        // for (char c: s) {
+        //     res[idx].push_back(c);
+        //     if (idx == 0) {
+        //         dirn = 1;
+        //     } else if (idx == numRows - 1) {
+        //         dirn = -1;
+        //     }
+
+        //     idx += dirn;
+        // }
+
+        // string out;
+        // for (const auto& row : res) {
+        //     for (char val : row) {
+        //         std::cout << val << " ";
+        //     }
+        //     std::cout << "\n";
+        // }
+
+        // return out;
+
+        // if (numRows<=1 || numRows>=s.length()) return s;
+
+        // vector<string> res(numRows);
+        // int idx=0;
+        // bool down = false;
+
+        // for (char c: s) {
+        //     res[idx].push_back(c);
+        //     if (idx==0 || idx==numRows-1) down = ! down;
+            
+        //     idx += down ? 1: -1;
+        // }
+
+        // string out;
+        // for (auto &row: res) out += row;
+
+        // return out;
+        
+
+        //Direct Index Conversion
         if (numRows == 1) return s;
 
-        vector<vector<char>> res(numRows);
-        int idx = 0, dirn; // 1-down, -1-up
+        int n = s.length();
+        
+        string res;
+        res.reserve(n);
 
-        for (char c: s) {
-            res[idx].push_back(c);
-            if (idx == 0) {
-                dirn = 1;
-            } else if (idx == numRows - 1) {
-                dirn = -1;
+        for (int i=0;i<numRows;i++) {
+            int incr = 2*(numRows-1);
+            for (int j=i;j<n;j+=incr) {
+                res += s[j];
+                if (i>0 && i<numRows-1 && j+incr-2*i<n) res+=s[j+incr-2*i];
             }
-
-            idx += dirn;
         }
-
-        string out;
-        for (const auto& row : res) {
-            for (char val : row) {
-                // std::cout << val << " ";
-                out += val;
-            }
-            // std::cout << "\n";
-        }
-
-        return out;
+        return res;
     }
 };
