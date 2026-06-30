@@ -82,20 +82,22 @@ public:
         
 
         //Direct Index Conversion
-        if (numRows == 1) return s;
+        if (numRows==1) return s;
 
         int n = s.length();
         
         string res;
         res.reserve(n);
 
+        int incr = 2*(numRows-1);
+
         for (int i=0;i<numRows;i++) {
-            int incr = 2*(numRows-1);
             for (int j=i;j<n;j+=incr) {
-                res += s[j];
+                res+=s[j];
                 if (i>0 && i<numRows-1 && j+incr-2*i<n) res+=s[j+incr-2*i];
             }
         }
+
         return res;
     }
 };
