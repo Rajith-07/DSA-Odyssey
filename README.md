@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0206-reverse-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rajith-07/DSA-Odyssey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
 |  |
@@ -220,4 +221,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0100-same-tree) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
