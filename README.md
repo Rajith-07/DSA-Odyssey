@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0875-koko-eating-bananas) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1250-check-if-it-is-a-good-array) |
+| [1288-remove-covered-intervals](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1288-remove-covered-intervals) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1480-running-sum-of-1d-array) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0347-top-k-frequent-elements) |
 | [0853-car-fleet](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0853-car-fleet) |
+| [1288-remove-covered-intervals](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1288-remove-covered-intervals) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1833-maximum-ice-cream-bars) |
 ## Trie
 |  |
