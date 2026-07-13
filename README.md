@@ -241,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
