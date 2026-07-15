@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1929-concatenation-of-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rajith-07/DSA-Odyssey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3689-maximum-total-subarray-value-i) |
 | [3838-weighted-word-mapping](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3838-weighted-word-mapping) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1833-maximum-ice-cream-bars) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rajith-07/DSA-Odyssey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Trie
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0134-gas-station) |
 | [1833-maximum-ice-cream-bars](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1833-maximum-ice-cream-bars) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Rajith-07/DSA-Odyssey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3689-maximum-total-subarray-value-i](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3689-maximum-total-subarray-value-i) |
 ## Dynamic Programming
 |  |
