@@ -9,7 +9,6 @@ public:
             if (nums[i]>mx) mx=nums[i];
         }
 
-        // if (mn==mx) return mn;
         return gcd(mx,mn);
     }
 };
