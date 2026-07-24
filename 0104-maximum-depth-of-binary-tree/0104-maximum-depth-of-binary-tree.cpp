@@ -16,28 +16,50 @@ public:
         // if (root == nullptr) return 0;
         // return 1+max(maxDepth(root->left), maxDepth(root->right));
 
-        // BFS
+
+        // Itertive DFS
         if (!root) return 0;
 
-        queue<TreeNode*> q;
-        q.push(root);
+        int max_depth = 0;
+        stack<pair<TreeNode*, int>> s;
+        s.push({root,1});
 
-        int depth = 0;
+        while(!s.empty()) {
+            auto [node, depth] = s.top();
+            s.pop();
 
-        while(!q.empty()) {
-            int level_size = q.size();
+            if(node) {
+                max_depth = max(max_depth, depth);
 
-            for (int i=0;i<level_size;i++) {
-                TreeNode *node = q.front();
-                q.pop();
-            
-                if (node->left) q.push(node->left);
-                if (node->right) q.push(node->right);
+                if (node->left) s.push({node->left, depth+1});
+                if (node->right) s.push({node->right, depth+1});
             }
-
-            depth++;
         }
 
-        return depth;
+        return max_depth;
+
+        // BFS
+        // if (!root) return 0;
+
+        // queue<TreeNode*> q;
+        // q.push(root);
+
+        // int depth = 0;
+
+        // while(!q.empty()) {
+        //     int level_size = q.size();
+
+        //     for (int i=0;i<level_size;i++) {
+        //         TreeNode *node = q.front();
+        //         q.pop();
+            
+        //         if (node->left) q.push(node->left);
+        //         if (node->right) q.push(node->right);
+        //     }
+
+        //     depth++;
+        // }
+
+        // return depth;
     }
 };
