@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0347-top-k-frequent-elements) |
 | [0704-binary-search](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0746-min-cost-climbing-stairs) |
 | [0853-car-fleet](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0875-koko-eating-bananas) |
 | [1250-check-if-it-is-a-good-array](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1250-check-if-it-is-a-good-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0118-pascals-triangle) |
+| [0746-min-cost-climbing-stairs](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0746-min-cost-climbing-stairs) |
 ## Linked List
 |  |
 | ------- |
