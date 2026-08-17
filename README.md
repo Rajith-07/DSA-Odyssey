@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0263-ugly-number](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0268-missing-number) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0118-pascals-triangle) |
 ## Linked List
 |  |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
