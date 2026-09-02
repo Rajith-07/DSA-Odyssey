@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3842-toggle-light-bulbs) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
