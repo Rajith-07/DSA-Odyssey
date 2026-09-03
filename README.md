@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0412-fizz-buzz](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0424-longest-repeating-character-replacement) |
 | [0844-backspace-string-compare](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0844-backspace-string-compare) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0211-design-add-and-search-words-data-structure) |
 ## Sliding Window
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0226-invert-binary-tree](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0543-diameter-of-binary-tree) |
@@ -311,4 +314,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0208-implement-trie-prefix-tree) |
+| [0211-design-add-and-search-words-data-structure](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0211-design-add-and-search-words-data-structure) |
 <!---LeetCode Topics End-->
