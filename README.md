@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1108-defanging-an-ip-address) |
 | [1189-maximum-number-of-balloons](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3838-weighted-word-mapping](https://github.com/Rajith-07/DSA-Odyssey/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0844-backspace-string-compare) |
 | [0853-car-fleet](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0853-car-fleet) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Rajith-07/DSA-Odyssey/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Union-Find
 |  |
@@ -315,4 +317,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rajith-07/DSA-Odyssey/tree/master/0211-design-add-and-search-words-data-structure) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajith-07/DSA-Odyssey/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
